@@ -10,8 +10,8 @@ Check your reaction time with a simple Python program
 
 ### Installing
 
-Simply install tkinter with pip, and run the ReactionTimeTest.py file
-
+Install tkinter with pip, and run the app.py file.
+Alternatively, run the console version in a terminal.
 
 ## Built With
 
