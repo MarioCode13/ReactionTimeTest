@@ -3,8 +3,8 @@ Check your reaction time with a simple Python program
 
 ### Prerequisites
 
-Python 3.7
-tkinter python library
+* Python 3.7
+* tkinter python library
 
 
 
