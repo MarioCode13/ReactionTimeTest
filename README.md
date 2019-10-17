@@ -10,7 +10,10 @@ Check your reaction time with a simple Python program
 
 ### Installing
 
-Install tkinter with pip, and run the app.py file.
+Run:
+-pip install tkinter
+-pip install ttkthemes
+
 Alternatively, run the console version in a terminal.
 
 ## Built With
